@@ -1,6 +1,10 @@
 body {
     max-width: 800px;
     margin: 0 auto;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
   }
   
   .sender-column {
